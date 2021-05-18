@@ -56,7 +56,7 @@ pipeline {
             }
             steps {
                 sh """
-                echo "Building Artifact"
+                echo "Building Artifact dev"
                 """
 
                 sh """
